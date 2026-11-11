@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SharpDB.CLI/SharpDB.Cli.csproj" />
+  <Project Path="SharpDB.Core/SharpDB.Core.csproj" />
+</Solution>
